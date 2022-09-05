@@ -728,7 +728,7 @@
 
 &venus {
 	status = "okay";
-	firmware-name = "qcom/sdm845/oneplus6/venus.mbn";
+	firmware-name = "qcom/sdm845/pixel3/venus.mbn";
 };
 
 &wifi {
